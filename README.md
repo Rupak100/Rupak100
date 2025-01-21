@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupak100&label=Profile%20views&color=0e75b6&style=flat" alt="rupak100" /> </p>
 
-- 🔭 I’m currently working on [Spring Boot](https://github.com/Rupak100/NIC-TASK)
+- 🔭 I’m currently working on Javascript
 
 - 🌱 I’m currently learning **Spring Boot**
 
